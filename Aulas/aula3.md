@@ -20,3 +20,4 @@ Falar sobre polinomio de Taylor e o seu resto. Parte meio rota tbh. Ao fazer est
 
 - Ver exercicio 31 para exemplo
 
+- Polinómio de Maclaurin de 𝑓 𝑥 : ter em conta o polinomio de taylor é centrado em a, ou seja a = 0. Pode ser usado quando o valor de a não é referido.
