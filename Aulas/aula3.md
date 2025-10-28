@@ -16,6 +16,10 @@ Regra de L'hopital pode ser aplicada em limites em que divisao entre 0's e divis
 
 - Ver exercicios aplicar regra de l'hopital
 
+Ter em atencao os tipos de indeterminacao.
+![alt text](image-22.png)
+
+
 Falar sobre polinomio de Taylor e o seu resto. Parte meio rota tbh. Ao fazer este exercicio, ao ver o crescimento das derivadas em funcao de k até n, temos de transformar num padrão.
 
 - Ver exercicio 31 para exemplo
