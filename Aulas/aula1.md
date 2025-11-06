@@ -1,6 +1,10 @@
 Falar sobre trigonometria e as suas funcoes inversas
 
 - Falar sobre as propriedades adicao, arco duplo, sen e cos, e etc ...
+- Mostrar como obter proof of equations: Pensar geometricamente. 
+
+![alt text](image-23.png)
+
 - arcsin(x) funcao inversa de sin(x) 
 - arccos(x) funcao inversa de cos(x)
 - Pensar como se y = cos(x) em que x = PI/2 y = 0. Ou seja para a funcao inversa  y = arccos(x) para y = 0, será a mesma coisa que inverter o y com o x, ou seja vamos ter o seguinte: x = cos(y) , x = cos(0) == 1 

@@ -20,6 +20,14 @@ Ter em atencao os tipos de indeterminacao.
 ![alt text](image-22.png)
 
 
+Polinomio de Taylor serve para fazer uma melhor aproximação de funções complexas, como por exemplo sin(x), e^x. Em vez de utilizar a aproximação linear através da tangente,fazemos a aproximacação através de derivadas de mais alto grau.
+
+Para tal aproximação fazemos o somatório das varias derivadas até `n`, no ponto `a`.
+
+Como chegamos à formula do polinomio de Taylor ? 
+
+Primeiro assumimos que o polinomio é do tipo P(x) = b0 + b1*(x-a) + b2*(x-a)²
+
 Falar sobre polinomio de Taylor e o seu resto. Parte meio rota tbh. Ao fazer este exercicio, ao ver o crescimento das derivadas em funcao de k até n, temos de transformar num padrão.
 
 - Ver exercicio 31 para exemplo
