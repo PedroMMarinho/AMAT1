@@ -70,12 +70,18 @@ Ver exercicio 40.
  
 ![alt text](image-6.png)
 
-Falar sobre critérios de comparacao e como sao uteis para determinar a convergencia de uma serie.
+Falar sobre critérios de comparacao e como sao uteis para determinar a convergencia de uma serie. 
+Falar que estes critérips apenas se aplicam para séries de termos não **negativos**, ou seja nenhum termo pode ser menor que zero. 
+Apenas consideramos que este teorema funciona se tivermos para todos os termos em que bn seja maior que an.
+
 
 ![alt text](image-7.png)
 
-O Teorema – Critério de Comparação por Passagem ao Limite pode ser combinado com o seguinte teorema.
+O Teorema – Critério de Comparação por Passagem ao Limite pode ser combinado com o seguinte teorema. 
+O por comparacao por limite funciona apenase se e só se c tiver um valor positivo, se não for o caso não dá.
 ![alt text](image-8.png)
+
+![alt text](image-24.png)
 
 - Podemos fazer isto assumindo que na nossa atual sucessao seja (a,n) e pode mos assumir uma funcao (b,n) em que teremos de provar o seguinte.
 
@@ -88,6 +94,9 @@ Podemos sempre usar as funcoes deste tipo, sendo que sao todas convergentes caso
 ![alt text](image-10.png)
 
 Falar sobre Teorema da raiz
+
+![alt text](image-25.png)
+
 
 ![alt text](image-11.png)
 
